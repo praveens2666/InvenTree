@@ -120,3 +120,4 @@ services:
             - ${INVENTREE_EXT_VOLUME}:/var/log:z
             - ${INVENTREE_EXT_VOLUME}:/data:z
             - ${INVENTREE_EXT_VOLUME}:/config:z
+

@@ -1,0 +1,43 @@
+{
+  "machine_1": {
+    "order_pk": 128,
+    "missing_parts": [
+      "[hydraulic_pump",
+      "cooling_system_fan",
+      "lubrication_system]"
+    ],
+    "target_date": "2025-09-05",
+    "location": "avadi"
+  },
+  "machine_2": {
+    "order_pk": 129,
+    "missing_parts": [
+      "hydraulic_fluid"
+    ],
+    "target_date": "2025-09-05",
+    "location": "avadi"
+  },
+  "machine_3": {
+    "order_pk": null,
+    "missing_parts": [],
+    "target_date": "2025-09-01",
+    "location": "avadi"
+  },
+  "machine_4": {
+    "order_pk": 130,
+    "missing_parts": [
+      "hydraulic_fluid"
+    ],
+    "target_date": "2025-09-05",
+    "location": "avadi"
+  },
+  "machine_5": {
+    "order_pk": 131,
+    "missing_parts": [
+      "cooling_system_fan",
+      "cooling_system_pump"
+    ],
+    "target_date": "2025-09-05",
+    "location": "avadi"
+  }
+}

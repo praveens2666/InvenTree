@@ -1,0 +1,8 @@
+machine,order,part,target_date,location,staff_id,staff_name,staff_location,assigned_date
+machine_1,128,[hydraulic_pump,2025-09-05,avadi,,Ramesh,Site-C,2025-09-05
+machine_1,128,cooling_system_fan,2025-09-05,avadi,,Priya,Site-A,2025-09-05
+machine_1,128,lubrication_system],2025-09-05,avadi,,Arjun,Site-A,2025-09-05
+machine_2,129,hydraulic_fluid,2025-09-05,avadi,,Vikram,Site-B,2025-09-05
+machine_4,130,hydraulic_fluid,2025-09-05,avadi,,Sanjay,Site-A,2025-09-05
+machine_5,131,cooling_system_fan,2025-09-05,avadi,,Anita,Site-A,2025-09-05
+machine_5,131,cooling_system_pump,2025-09-05,avadi,,Pooja,Site-A,2025-09-05

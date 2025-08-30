@@ -1,0 +1,51 @@
+Staff_ID,Name,Skill,Shift_Availability,Max_Hours/Day,Current_Load,Location
+T001,Ramesh,Welding & Cutting,Tue-Sun 10AM–7PM,9,2,Site-C
+T002,Priya,Cutter Maintenance,Mon-Sun Rotational,9,4,Site-A
+T003,Arjun,Electrical Systems,Mon-Sat 9AM–6PM,7,5,Site-A
+T004,Kavita,Welding & Cutting,Mon-Sun Rotational,7,5,Site-B
+T005,Suresh,Electrical Systems,Mon-Sat 9AM–6PM,7,0,Site-C
+T006,Anita,Electrical Systems,Night Shift 9PM–6AM,6,1,Site-A
+T007,Vikram,Hydraulic Systems,Mon-Sat 9AM–6PM,7,5,Site-B
+T008,Deepa,Cutter Maintenance,Tue-Sun 10AM–7PM,7,5,Site-A
+T009,Rahul,Electrical Systems,Night Shift 9PM–6AM,9,6,Site-D
+T010,Neha,Welding & Cutting,Mon-Fri 8AM–5PM,7,3,Site-D
+T011,Amit,Cutter Maintenance,Tue-Sun 10AM–7PM,7,4,Site-D
+T012,Sneha,Excavator Maintenance,Night Shift 9PM–6AM,6,3,Site-C
+T013,Manoj,Electrical Systems,Mon-Sun Rotational,8,3,Site-C
+T014,Pooja,Excavator Maintenance,Mon-Sat 9AM–6PM,9,0,Site-A
+T015,Kiran,Cutter Maintenance,Mon-Sat 9AM–6PM,6,3,Site-D
+T016,Lakshmi,Cutter Maintenance,Night Shift 9PM–6AM,8,0,Site-C
+T017,Ganesh,Excavator Maintenance,Tue-Sun 10AM–7PM,9,0,Site-D
+T018,Divya,Hydraulic Systems,Night Shift 9PM–6AM,8,3,Site-B
+T019,Rohit,Diagnostics & Sensors,Mon-Sat 9AM–6PM,7,2,Site-B
+T020,Meena,Bender Maintenance,Mon-Sun Rotational,9,6,Site-C
+T021,Sanjay,Welding & Cutting,Mon-Fri 8AM–5PM,6,4,Site-A
+T022,Geeta,Cutter Maintenance,Mon-Sat 9AM–6PM,6,1,Site-A
+T023,Ashok,Welding & Cutting,Night Shift 9PM–6AM,9,4,Site-D
+T024,Rekha,General Mechanical,Mon-Sat 9AM–6PM,8,0,Site-B
+T025,Nitin,Hydraulic Systems,Mon-Fri 8AM–5PM,7,4,Site-A
+T026,Shalini,Electrical Systems,Mon-Sat 9AM–6PM,7,2,Site-C
+T027,Prakash,Diagnostics & Sensors,Mon-Fri 8AM–5PM,8,4,Site-D
+T028,Anjali,Hydraulic Systems,Mon-Sat 9AM–6PM,7,5,Site-A
+T029,Mohan,Hydraulic Systems,Tue-Sun 10AM–7PM,7,4,Site-D
+T030,Sarita,Welding & Cutting,Mon-Fri 8AM–5PM,9,2,Site-B
+T031,Vivek,General Mechanical,Night Shift 9PM–6AM,7,1,Site-D
+T032,Monica,Electrical Systems,Mon-Sat 9AM–6PM,9,0,Site-A
+T033,Harish,Cutter Maintenance,Mon-Sun Rotational,7,1,Site-A
+T034,Chitra,Hydraulic Systems,Tue-Sun 10AM–7PM,7,4,Site-A
+T035,Rajesh,General Mechanical,Tue-Sun 10AM–7PM,6,4,Site-A
+T036,Preeti,Welding & Cutting,Tue-Sun 10AM–7PM,8,6,Site-B
+T037,Sunil,Welding & Cutting,Mon-Sun Rotational,7,4,Site-A
+T038,Radhika,Welding & Cutting,Tue-Sun 10AM–7PM,8,1,Site-B
+T039,Dinesh,Electrical Systems,Night Shift 9PM–6AM,7,5,Site-C
+T040,Bhavna,Electrical Systems,Tue-Sun 10AM–7PM,8,0,Site-A
+T041,Alok,Diagnostics & Sensors,Mon-Sun Rotational,8,1,Site-A
+T042,Seema,Excavator Maintenance,Mon-Sat 9AM–6PM,7,6,Site-C
+T043,Vishal,Cutter Maintenance,Mon-Fri 8AM–5PM,9,6,Site-C
+T044,Komal,General Mechanical,Mon-Sun Rotational,8,6,Site-B
+T045,Mahesh,Welding & Cutting,Mon-Fri 8AM–5PM,8,1,Site-A
+T046,Jyoti,Electrical Systems,Mon-Sat 9AM–6PM,8,0,Site-B
+T047,Ravi,Hydraulic Systems,Tue-Sun 10AM–7PM,9,6,Site-D
+T048,Tanvi,Diagnostics & Sensors,Mon-Fri 8AM–5PM,8,1,Site-B
+T049,Naveen,Electrical Systems,Night Shift 9PM–6AM,8,5,Site-C
+T050,Pallavi,Cutter Maintenance,Mon-Sun Rotational,7,1,Site-C
